@@ -1,7 +1,7 @@
 count = 10
 newYear = "Happy New Year!"
 
-while count <= 10 && count > 1
+while count <= 10
   do
     puts count
     count += 1
